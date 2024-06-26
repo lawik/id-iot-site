@@ -1,5 +1,5 @@
 ---
 title: "Post"
-header: "Latest Posts" # Optional
+header: "Communications from The ID-IoT" # Optional
+url: "/"
 ---
-See What I’ve Written Lately
